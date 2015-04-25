@@ -1,0 +1,15 @@
+/Users/veneciaalvarez/Documents/Flex/bin/adt
+-package
+-target
+apk
+-storetype
+pkcs12
+-keystore
+/Users/veneciaalvarez/Documents/workspace2/DemoAgain/bin/dummyCertificate.p12
+-storepass
+ZdxUnvVjr1A=
+/Users/veneciaalvarez/Documents/workspace2/DemoAgain/bin/DemoAgain.apk
+bin/DemoAgain-app.xml
+-C
+bin
+DemoAgain.swf

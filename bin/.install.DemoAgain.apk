@@ -1,0 +1,4 @@
+/Users/veneciaalvarez/Documents/Flex/lib/android/bin/adb
+install
+-r
+/Users/veneciaalvarez/Documents/workspace2/DemoAgain/bin/DemoAgain.apk
